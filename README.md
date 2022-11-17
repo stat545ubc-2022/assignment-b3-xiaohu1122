@@ -3,7 +3,7 @@
 
 This repository is for assigment b3 in STAT545B.
 
-I chose too create my own Shiny app, and here is the link: https://nicolehu.shinyapps.io/Bike/
+I chose to create my own Shiny app, and here is the link: https://nicolehu.shinyapps.io/Bike/
 
 
 ## Description of my app
