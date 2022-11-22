@@ -6,9 +6,9 @@ This repository is for assigment b3 in STAT545B.
 I created my own Shiny app, and here is the link: https://nicolehu.shinyapps.io/Bike/
 
 
-## Description of my app
+## Description of My App
 
-This is a data dashboard showing the rented number of bikes in Seoul per hour in different season and holidays, and it has features including:
+This is a data dashboard showing the rented number of bikes in Seoul per hour in different seasons, and it has features including:
 
 - A picture of a bicycle embedded in the sidebar
 - A Filter option: whether it is a holiday or not
